@@ -1,6 +1,6 @@
-# Naskah Jernih
+# Lancar Indonesia
 
-> **Teks Indonesia yang jernih: baku tanpa kaku, jujur, dan lancar dibaca.**
+> **Bahasa Indonesia yang lancar: baku tanpa kaku, jujur, dan jernih dibaca.**
 > Skill untuk agen AI (Claude Code, ZCode, dll.) yang membuat naskah buatan AI terdengar seperti tulisan manusia yang cermat.
 
 ---
@@ -19,7 +19,7 @@ Kalimatnya tidak salah secara tata bahasa. Tetapi pembaca harus menebak sendiri:
 sebenarnya diberlakukan, kapan, berapa biayanya, dan untuk siapa. Nada iklan, pembuka
 kosmik, penutup baku, dan penghubung ritual membuat pembaca berhenti mempercayai isinya.
 
-## Sesudah Naskah Jernih
+## Sesudah Lancar Indonesia
 
 > Mulai 1 Desember, parkir di lima kawasan pusat kota dibayar lewat aplikasi ParkirAyo.
 > Pengguna memindai kode QR di titik parkir, dan tarif tampil di layar sebelum pembayaran:
@@ -64,7 +64,7 @@ ukuran statistik.
 ## Apa isinya
 
 ```
-naskah-jernih/
+lancar-indonesia/
 ├── SKILL.md              # titik masuk: kontrak, batas perubahan, alur kerja
 ├── KONTRAK.md            # kontrak kejujuran (data, rujukan, pengungkapan AI)
 ├── references/
@@ -98,7 +98,7 @@ menyamarkan hasil AI dari detektor. Bila data kurang, panduan menulis
 ## Cara pakai
 
 **Sebagai skill agen AI:** salin folder ini ke direktori skills agen kamu
-(misalnya `~/.agents/skills/naskah-jernih` atau `~/.claude/skills/naskah-jernih`), lalu
+(misalnya `~/.agents/skills/lancar-indonesia` atau `~/.claude/skills/lancar-indonesia`), lalu
 minta agen: *"rapikan bahasanya"* atau *"tulis latar belakang dari catatan ini"*.
 
 **Sebagai saringan mandiri:**
@@ -132,7 +132,7 @@ MIT — bebas dipakai, diubah, dan didistribusikan. Lihat [LICENSE](LICENSE).
 
 ### 日本語メモ / Japanese notes
 
-**Naskah Jernih** =「澄んだ(読みやすい)原稿」。AIが書いたインドネシア語を、学術(EYD V / KBBI 準拠)・
+**Lancar Indonesia** =「なめらかに読めるインドネシア語」。AIが書いたインドネシア語を、学術(EYD V / KBBI 準拠)・
 一般文書の両方で「自然・標準的・誠実・読みやすい」に整えるスキル。
 
 - 元の2スキルを統合: [naskah-id](https://github.com/nothinx/naskah-id)(EYD/KBBI・捏造禁止コントラクト、MIT)と
